@@ -1,4 +1,4 @@
-# Optimizing-user-group-and-role-management-with-access-control-and-workflows
+# Optimizing-user-group-and-role-management-with-access-control-and-workflows Problem Statement
 Problem Statement:
 In a small project management team consisting of a Project Manager (Alice) and a Team Member (Bob), there is a need to efficiently manage project tasks and ensure accountability throughout the project lifecycle. The current system lacks clear role definitions, access controls, and a structured workflow, leading to confusion regarding task assignments and progress tracking.
 Solution:
